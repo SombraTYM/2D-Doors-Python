@@ -1,2 +1,2 @@
 # 2D-Doors-Python
-Un repositorio donde estaré compartiendo los avances de mi juego de Doors en Python y regalaré el código, aunque nadie lo quiera. ¡Jajaja!
+Este repositorio es público, y cualquiera puede usar el código para sus proyectos e incluso mejorarlo, ya que no es para uso comercial y solo tiene fines educativos. No se puede editar este repositorio. ¡Espero que les sirva el código!
